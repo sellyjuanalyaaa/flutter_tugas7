@@ -9,21 +9,29 @@ Didesain menggunakan gaya **Material 3** untuk tampilan yang modern dan responsi
 ## Fitur Utama
 
 * **Sistem Login Sederhana**: Validasi username dan password statis.
+  ![](login.png)
 * **Dashboard Interaktif**: Menu navigasi berbasis Grid untuk akses cepat.
+  ![](beranda.png)
 * **Side Menu (Drawer)**: Navigasi slide-out yang mencakup profil singkat pengguna.
+  ![](sidebar.png)
 * **Manajemen Profil**:
     * Menampilkan informasi pengguna.
     * Fitur ganti foto profil (menggunakan `image_picker`) yang tersimpan secara lokal.
+   ![](profile.png)
 * **Catatan (Notes)**:
     * Membuat catatan baru.
     * Menghapus catatan.
     * Data catatan tersimpan permanen (persist) meski aplikasi ditutup.
+   ![](note.png)
 * **Log Aktivitas**: Tampilan timeline sederhana untuk riwayat aktivitas.
+  ![](logact.png)
 * **Pengaturan (Settings)**:
     * Toggle Notifikasi.
     * Toggle Dark Mode (Tema Gelap).
     * Status pengaturan tersimpan otomatis.
+   ![](setting.png)
 * **Tentang Aplikasi**: Informasi versi dan deskripsi aplikasi.
+  ![](about.png)
 
 ## Akun Demo
 
